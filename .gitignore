@@ -45,3 +45,5 @@ TMP_*
 .idea
 volumes
 SECRET-api-keys.json
+web/routes/baseConfig.js
+web/vue/UIconfig.js
