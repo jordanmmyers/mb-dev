@@ -4,7 +4,7 @@ const util = require(__dirname + '/core/util');
 console.log(figlet.textSync('MoonBot', {
   font: 'Small Isometric1'
 }));
-console.log('\nMoonBot v' + util.getVersion() + ' by MoonTrading.io\n\n');
+console.log('\nMoonBot v' + util.getVersion() + ' by MoonTrading.io\n');
 
 const dirs = util.dirs();
 
