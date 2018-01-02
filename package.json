@@ -30,7 +30,6 @@
     "commander": "^2.9.0",
     "figlet": "^1.2.0",
     "gdax": "^0.4.2",
-    "moonbot": "0.1",
     "gemini-exchange-coffee-api": "2.0.6",
     "humanize-duration": "^3.10.0",
     "koa": "^1.2.0",
