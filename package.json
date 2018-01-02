@@ -14,6 +14,7 @@
     "start": "node ./MoonBot --config config.js --ui"
   },
   "author": "Jordan Myers <jordan@moontrading.io>",
+  "private": true,
   "dependencies": {
     "@slack/client": "^3.10.0",
     "async": "2.1.2",
